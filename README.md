@@ -7,6 +7,7 @@ You have access, in this folder, to two datasets of wines' characteristics.
 In the Training Dataset, each wine is described by 13 features. Please pay special attention to two of them:
 
 ●	Color: Here you have a categorical feature, with "R" meaning red wine and "W" meaning white wine.
+
 ●	Quality: An integer number which represents the quality of the wine, as judged by experts. Higher numbers means greater quality. 
 
 All other features are real positive numbers. 
